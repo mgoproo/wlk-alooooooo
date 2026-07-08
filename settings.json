@@ -8,7 +8,7 @@
   "server": {
     "ip": "MGOPRO-hr1Q.aternos.me",
     "port": 40366,
-    "version": "1.21.1"
+    "version": "26.2"
   },
   "position": {
     "enabled": true,
